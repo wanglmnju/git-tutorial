@@ -1,1 +1,1 @@
-console.log('ssh0');
+console.log('ssh');
