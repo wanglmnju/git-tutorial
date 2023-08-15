@@ -1,1 +1,1 @@
-console.log('ssh test6');
+console.log('git ssh');
